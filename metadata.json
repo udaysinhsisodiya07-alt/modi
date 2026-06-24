@@ -1,0 +1,6 @@
+{
+  "name": "Modi Dental Clinic",
+  "description": "Premium multi-speciality dental clinic website featuring advanced dental care, modern UI, and online appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
